@@ -1,0 +1,19 @@
+
+
+#articlepizzaria1{
+    display: block;
+    margin: 8px;
+    text-align: center;
+}
+
+
+
+.pizzariaimg1{
+        height: 70px;
+        width: 95%;
+        border-radius: 4px;
+        background-color: rgb(133, 133, 20);
+        padding: 10px;
+        margin-top: 10px;
+        text-align: center;
+}

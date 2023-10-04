@@ -1,0 +1,450 @@
+@media screen and (min-width: 425px) and (max-width: 768px){ 
+    #mainhome{
+        margin: auto;
+        height: 100%;
+        width: 100%;
+        
+    }
+    
+    /*CSS Home Foods*/
+    .mpromocoes{
+        text-align: center;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        color: red;
+        background-color: rgba(255, 0, 0, 0.205);
+    }
+    #articlehome2{
+        display: flex;
+        overflow-y: scroll;
+        margin-top:3px;
+    }
+    .sectionhome1{
+        height: 150px;
+        background-color:white;
+        margin-left: 20px;
+        border-radius: 8px;
+        box-shadow: 10px 5px 15px 0.2px rgba(0, 0, 0, 0.205);
+    }
+    .descprod{
+        text-align: center;
+        font-size: 15px;
+        color: black;
+        font-weight: bold;
+        
+    }
+    .img1{
+        height: 100px;
+        width: 100px;
+        border-radius: 100px;
+        background-color: rgb(255, 0, 0);
+        padding: 0px;
+        margin-left: 10px;
+        margin-right: 10px;
+        text-align: center;
+    }
+
+    #articlehome3{
+        padding-top: 6px;
+        padding-bottom: 6px;
+        background-color:rgba(255, 0, 0, 0.205);
+        color: red;
+        text-align: center;
+        
+    }
+
+    #articlehome4{
+        display: flex;
+        overflow-y: scroll;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .img2{
+        height:80px;
+        width: 130px;
+        border-radius: 8px;
+        background-color: red;
+        padding: 2px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
+    #articlehome5{
+        text-align: center;
+        height: 150px;
+        background-color: red;
+        color: white;
+        border-radius: 10px;
+    }
+    #banner1{
+        height: 150px;
+        width: 100%;
+        border-radius: 8px;
+    }
+
+    #articlehome6{
+        display: flex;
+        overflow-y: scroll;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    .img6{
+        height: 90px;
+        width: 80px;
+        border-radius: 8px;
+        background-color: red;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    #articlehome7{
+        margin-top: 20px;
+        margin-bottom: 10px;
+        display: block;
+        text-align: center;
+        height: 200px;
+        overflow-x: scroll;
+    }
+    .img7{
+        height: 20px;
+        border-radius: 4px;
+        background-color: darkgoldenrod;
+        padding: 10px;
+        margin-top: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+
+
+
+    /*CSS de Home Adegas*/
+    #articlehome01 ul {
+        display: flex;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        
+    }
+    #articlehome01 ul li {
+        list-style-type:none;
+        margin-right: 8px;
+        font-size: 12px;
+        color: white;
+    }
+    .decnone{
+        text-decoration: none;
+        font-weight: bolder;
+    }
+    #articlehome01 ul li:hover{
+        background-color: white;
+        color: red;
+        border-radius: 2px;
+    }
+
+    #articlehome01{
+        background-color:gold;
+        text-align: center;
+        padding-top: 6px;
+        padding-bottom: 6px;
+    }
+    #articlehome01 p{
+        color:red;
+    }
+    
+
+
+    #articlehome02{
+        display: flex;
+        overflow-y: scroll;
+        margin-top:3px;
+    }
+    .sectionhome01{
+        height: 130px;
+        background-color:white;
+        margin-left: 20px;
+        border-radius: 8px;
+        box-shadow: 10px 5px 15px 0.2px rgba(0, 0, 0, 0.205);
+    }
+    .descprod01{
+        text-align: center;
+        font-size: 10px;
+    }
+    .img01{
+        height: 100px;
+        width: 100px;
+        border-radius: 100px;
+        background-color: rgba(0, 0, 0, 0.877);
+        color: white;
+        margin-left: 10px;
+        margin-right: 10px;
+        text-align: center;
+    }
+
+    #articlehome03{
+        padding-top: 6px;
+        padding-bottom: 6px;
+        background-color:gold;
+        text-align: center;
+        color: red;
+
+    }
+
+    #articlehome04{
+        display: flex;
+        overflow-y: scroll;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .img02{
+        height: 80px;
+        width: 130px;
+        border-radius: 8px;
+        background-color: gold;
+        color: white;
+        padding: 4px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
+    #articlehome05{
+        text-align: center;
+        height: 150px;
+        background-color: rgba(0, 0, 0, 0.877);
+        color: white;
+        border-radius: 10px; 
+    }
+    #img05{
+        height: 150px;
+        width: 100%;
+    }
+
+    #articlehome06{
+        display: flex;
+        overflow-y: scroll;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    .img06{
+        height: 100px;
+        width: 90px;
+        padding: 4px;
+        border-radius: 8px;
+        background-color:rgb(139, 119, 6);
+        color: white;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
+
+
+    /*CSS de Home Saloes de Beleza*/
+    
+    .decnone{
+        color:rgb(139, 0, 139);
+    }
+
+    #barbeariahome01{
+        background-color:rgba(139, 0, 139, 0.397);
+        text-align: center;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        margin-top: 1px;
+    }
+
+
+    #articlehome002{
+        display: flex;
+        overflow-y: scroll;
+        margin-top:3px;
+    }
+    .sectionhome001{
+        height: 150px;
+        background-color:white;
+        margin-left: 20px;
+        border-radius: 8px;
+        box-shadow: 10px 5px 15px 0.2px rgba(0, 0, 0, 0.205);
+    }
+    .descprod001{
+        text-align: center;
+        font-size: 15px;
+        font-weight: bold;
+        margin-bottom: 15px;
+    }
+    .img001{
+        height: 100px;
+        width: 100px;
+        border-radius: 100px;
+        color: white;
+        margin-left: 10px;
+        margin-right: 10px;
+        text-align: center;
+    }
+
+    #articlehome003{
+        margin-top: 1px;
+        margin-bottom: 1px;
+        padding-top: 6px;
+        padding-bottom: 6px;            
+        background-color:rgba(139, 0, 139, 0.397);
+        text-align: center;
+        color: darkmagenta;
+    }
+
+    #articlehome004{
+        display: flex;
+        overflow-y: scroll;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .img002{
+        height: 80px;
+        width: 130px;
+        border-radius: 8px;
+        background-color:rgba(139, 0, 139, 0.397);
+        padding: 4px;
+        color: white;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .desc002{
+        text-align: center;
+        font-weight: bold;
+        margin-bottom: 15px;
+    }
+    
+    #articlehome005{
+        text-align: center;
+        height: 150px;
+        background-color:rgb(155, 73, 15);
+        color: white;
+        border-radius: 10px;
+    }
+    #articlehome005 img{
+        height: 150px;
+        width: 100%;
+        border-radius: 8px;
+    }
+
+    #articlehome006{
+        display: flex;
+        overflow-y: scroll;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    .img006{
+        height: 100px;
+        width: 90px;
+        border-radius: 8px;
+        background-color: black;
+        padding: 4px;
+        color: white;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
+
+
+
+
+    /*CSS de Home Barbearia*/
+    .decnone{
+        color: black;
+        font-weight: bold;
+    }
+   
+    #articlehome011{
+        padding-top: 6px;
+        padding-bottom: 6px;
+        background-color:rgba(0, 0, 0, 0.726);
+        text-align: center;
+        margin-top: 1px;
+    }
+
+
+    #articlehome0022{
+        display: flex;
+        overflow-y: scroll;
+        margin-top:3px;
+    }
+    .sectionhome0011{
+        height: 150px;
+        background-color:white;
+        margin-left: 20px;
+        border-radius: 8px;
+        box-shadow: 10px 5px 15px 0.2px rgba(0, 0, 0, 0.205);
+    }
+    .descprod0011{
+        text-align: center;
+        font-size: 15px;
+        font-weight: bold;
+        margin-bottom: 15px;
+    }
+    .img0011{
+        height: 100px;
+        width: 100px;
+        border-radius: 100px;
+        background-color: rgb(41, 15, 155);
+        color: white;
+        margin-left: 10px;
+        margin-right: 10px;
+        text-align: center;
+    }
+
+    #articlehome0033{
+        margin-top: 1px;
+        margin-bottom: 1px;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        background-color:rgba(0, 0, 0, 0.726);
+        text-align: center;
+        color: black;
+       
+    }
+
+    #articlehome0044{
+        display: flex;
+        overflow-y: scroll;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .img0022{
+        height: 80px;
+        width: 130px;
+        border-radius: 8px;
+        background-color: rgba(0, 0, 0, 0.726);
+        padding: 4px;
+        color: white;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
+    #articlehome0055{
+        text-align: center;
+        height: 150px;
+        background-color:rgba(0, 0, 0, 0.726);
+        color: white;
+        border-radius: 10px;
+    }
+    #articlehome0055 img{
+        height: 150px;
+        width: 100%;
+        border-radius: 8px;
+    }
+
+    #articlehome0066{
+        display: flex;
+        overflow-y: scroll;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    .img0066{
+        height: 90px;
+        width: 80px;
+        border-radius: 8px;
+        background-color: rgba(0, 0, 0, 0.726);
+        color: white;
+        padding: 4px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+}

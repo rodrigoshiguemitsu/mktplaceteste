@@ -1,0 +1,12 @@
+
+@media screen and (min-width: 425px) and (max-width: 542px){
+    #compfooter{
+        
+        background-color: rgba(0, 0, 0, 0.555);
+        height: 100px;
+        text-align: center;
+        color: white;
+        border-radius: 8px 8px 0px 0px ;
+        margin-top: 20px;
+    }
+} 

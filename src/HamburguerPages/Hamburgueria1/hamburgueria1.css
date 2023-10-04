@@ -1,0 +1,86 @@
+
+#hamburguer1pag{
+    margin: 0px;
+    padding: 0px;
+}
+
+#hamburguer1header{
+    height: 200px;
+    width: 100%;
+    border-radius: 0px 0px 8px 8px;
+}
+
+#posicaoperfil1{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+#sectionperfil1{
+    margin: auto;
+    height: 100px;
+    width: 100px;
+    margin-top: -70px;
+    border-radius: 100px;
+    
+}
+#sectionperfil1 img {
+    margin: auto;
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    padding: 3px;
+    border-radius: 100px;
+}
+
+#titulohamburguer1{
+    text-align: center;
+}
+
+#horariohamb1{
+    justify-content: center;
+    width: 100%;
+    display: flex;
+    margin-bottom: 10px;
+}
+.info1hamb{
+    width: 50%;
+    height: 30px;
+    padding-top:6px;
+    background-color:darkgoldenrod;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 6px;
+}
+
+.tithamb1{
+    text-align: center;
+   
+}
+
+#cardhamb1{
+    margin-top: 10px;
+    display: flex;
+    height: 160px;
+    width: 100%;
+    overflow-y:scroll;
+    text-align: center;
+}
+.sessaocardhamb1{
+   margin-left: 10px;
+   margin-right:10px;
+   height: 150px;  
+   
+}
+.parhamb1{
+    margin-top: 10px;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    background-color: darkgoldenrod;
+}
+.img1hamb{
+    padding-top: 40px;
+}
